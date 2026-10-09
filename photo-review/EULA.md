@@ -1,9 +1,7 @@
 # Acuerdo de licencia de usuario final (EULA) de Photo Review
 
-> **BORRADOR PARA REVISIÓN — NO ES LA VERSIÓN FINAL.** El nombre legal del desarrollador, la fecha, la jurisdicción aplicable y los enlaces definitivos están pendientes. Este texto es un borrador informativo y debe revisarse antes de presentarse como contrato vigente.
+**Desarrollador/editor:** Mauricio Zárate Barrera
 
-**Fecha de vigencia:** Pendiente de completar  
-**Desarrollador/editor:** Pendiente de confirmar  
 **Contacto:** morrisgrill@gmail.com
 
 Al descargar, instalar o utilizar Photo Review, aceptas este acuerdo. Si no estás de acuerdo, no uses la aplicación. Este acuerdo debe leerse junto con el aviso de privacidad de Photo Review y los términos aplicables de Apple.
@@ -36,7 +34,7 @@ La versión gratuita puede mostrar publicidad proporcionada por Google Mobile Ad
 
 ## 5. Privacidad
 
-El tratamiento de información relacionado con el uso de Photo Review se describe en el [aviso de privacidad](aviso-de-privacidad.md). El enlace público definitivo al aviso se incorporará cuando el sitio esté configurado y el documento se haya finalizado.
+El tratamiento de información relacionado con el uso de Photo Review se describe en el [aviso de privacidad integral](https://morrisgrill33.github.io/photo-review/).
 
 ## 6. Actualizaciones y disponibilidad
 
@@ -66,4 +64,4 @@ Este acuerdo puede actualizarse para reflejar cambios de la aplicación, los ser
 
 ## 12. Ley aplicable y contacto
 
-La jurisdicción y ley aplicable quedan **pendientes de confirmar** según la identidad del desarrollador, el mercado de distribución y las normas imperativas aplicables. Para preguntas sobre este acuerdo, escribe a **morrisgrill@gmail.com**. La identidad legal y domicilio del desarrollador se confirmarán antes de publicar una versión final.
+La jurisdicción y ley aplicable quedan **pendientes de confirmar** según el mercado de distribución y las normas imperativas aplicables. Para preguntas sobre este acuerdo, escribe a **morrisgrill@gmail.com**.

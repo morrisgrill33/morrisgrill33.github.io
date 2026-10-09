@@ -2,7 +2,7 @@
 
 Este repositorio público contiene únicamente los documentos legales y los archivos del sitio de Photo Review; no contiene el código de la aplicación.
 
-- [Aviso de privacidad en español (borrador)](aviso-de-privacidad.md)
-- [Acuerdo de licencia de usuario final (EULA, borrador)](EULA.md)
+- [Aviso de privacidad integral](https://morrisgrill33.github.io/photo-review/)
+- [Acuerdo de licencia de usuario final (EULA)](EULA.md)
 
-Los mercados previstos son México, Estados Unidos y Canadá. El vendedor público y los IDs de AdMob de producción están confirmados; la aplicación prevé avisos en español e inglés. El aviso sigue en borrador mientras se revisan los mensajes de consentimiento por región, la clasificación de edad y las etiquetas de privacidad de App Store, las reglas aplicables a menores y transferencias, y las obligaciones de francés en Quebec. GitHub Pages está activo en https://morrisgrill33.github.io/photo-review/. El aviso sigue en borrador mientras se completa la revisión legal; no configurar la URL de producción en la app hasta aprobarlo.
+Los mercados previstos son México, Estados Unidos y Canadá; el aviso se encuentra publicado en https://morrisgrill33.github.io/photo-review/. La clasificación de edad, las declaraciones de privacidad de App Store y la correspondencia de UMP/AdMob por región deben estar completas antes de distribuir la app.
