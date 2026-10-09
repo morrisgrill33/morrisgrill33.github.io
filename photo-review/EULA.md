@@ -4,7 +4,7 @@
 
 **Fecha de vigencia:** Pendiente de completar  
 **Desarrollador/editor:** Pendiente de confirmar  
-**Contacto:** morrisgrill@hotmail.com
+**Contacto:** morrisgrill@gmail.com
 
 Al descargar, instalar o utilizar Photo Review, aceptas este acuerdo. Si no estás de acuerdo, no uses la aplicación. Este acuerdo debe leerse junto con el aviso de privacidad de Photo Review y los términos aplicables de Apple.
 
@@ -66,4 +66,4 @@ Este acuerdo puede actualizarse para reflejar cambios de la aplicación, los ser
 
 ## 12. Ley aplicable y contacto
 
-La jurisdicción y ley aplicable quedan **pendientes de confirmar** según la identidad del desarrollador, el mercado de distribución y las normas imperativas aplicables. Para preguntas sobre este acuerdo, escribe a **morrisgrill@hotmail.com**. La identidad legal y domicilio del desarrollador se confirmarán antes de publicar una versión final.
+La jurisdicción y ley aplicable quedan **pendientes de confirmar** según la identidad del desarrollador, el mercado de distribución y las normas imperativas aplicables. Para preguntas sobre este acuerdo, escribe a **morrisgrill@gmail.com**. La identidad legal y domicilio del desarrollador se confirmarán antes de publicar una versión final.
