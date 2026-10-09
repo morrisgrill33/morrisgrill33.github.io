@@ -144,7 +144,7 @@ Si el Responsable detecta que ha recibido información personal de un menor de f
 
 ## 14. Cambios a este aviso
 
-El Responsable puede actualizar este aviso cuando cambien la aplicación, los proveedores, las finalidades o las obligaciones legales. La versión vigente indicará la fecha de actualización y estará disponible en [https://morrisgrill33.github.io/photo-review-ios-public/](https://morrisgrill33.github.io/photo-review-ios-public/). Si un cambio requiere consentimiento nuevo, se solicitará mediante la aplicación u otro medio permitido por la legislación aplicable antes de aplicar el tratamiento correspondiente.
+El Responsable puede actualizar este aviso cuando cambien la aplicación, los proveedores, las finalidades o las obligaciones legales. La versión vigente indicará la fecha de actualización y estará disponible en [https://morrisgrill33.github.io/photo-review/](https://morrisgrill33.github.io/photo-review/). Si un cambio requiere consentimiento nuevo, se solicitará mediante la aplicación u otro medio permitido por la legislación aplicable antes de aplicar el tratamiento correspondiente.
 
 ## 15. Autoridad de protección de datos
 
