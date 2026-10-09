@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aviso de privacidad integral
-permalink: /
+permalink: /photo-review/
 lang: es-MX
 ---
 
