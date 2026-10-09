@@ -2,15 +2,14 @@
 
 **Fecha de entrada en vigor:** 8 de octubre de 2026
 
-> **Borrador para revisión y publicación.** Este aviso se elaboró con base en el código de Photo Review disponible al 6 de octubre de 2026. Antes de publicarlo, confirme los datos de producción de los proveedores, las prácticas de consentimiento publicitario y las declaraciones de privacidad de App Store. Este texto no sustituye la revisión de un profesional en privacidad y protección de datos.
 
 ## 1. Responsable del tratamiento y contacto
 
-El responsable del tratamiento de los datos personales relacionados con Photo Review es **Mauricio Zárate Barrera**, con domicilio en **Grand Masters 48, Fracc. Junto al Río, Temixco, Morelos, México** y correo para asuntos de privacidad **morrisgrill@hotmail.com** (en adelante, el “Responsable”).
+El responsable del tratamiento de los datos personales relacionados con Photo Review es **Mauricio Zárate Barrera**, con domicilio en **Grand Masters 48, Fracc. Junto al Río, Temixco, Morelos, México** y correo para asuntos de privacidad **morrisgrill@gmail.com** (en adelante, el “Responsable”).
 
 Photo Review es una aplicación para iPhone de público general; no está diseñada ni se promociona específicamente para niños. Permite explorar categorías y álbumes de la fototeca, revisar fotos y videos, conservarlos o marcarlos para eliminarlos, administrar los elementos pendientes y consultar ofertas de suscripción. Se planea distribuirla en **México, Estados Unidos y Canadá** y ofrecer el aviso en español e inglés. La aplicación se ofrece por **Mauricio Zárate Barrera**.
 
-Para cualquier pregunta, solicitud o queja sobre este aviso o el tratamiento de datos, puede escribir a **morrisgrill@hotmail.com**, canal de contacto del Responsable.
+Para cualquier pregunta, solicitud o queja sobre este aviso o el tratamiento de datos, puede escribir a **morrisgrill@gmail.com**, canal de contacto del Responsable.
 
 ## 2. Alcance del aviso
 
@@ -132,7 +131,7 @@ El usuario puede:
 - Administrar, cancelar o restaurar compras a través de Apple.
 - Solicitar información sobre el tratamiento de datos personales del que sea responsable el Responsable, así como ejercer los derechos de acceso, rectificación, cancelación u oposición (ARCO), revocar consentimientos cuando proceda o limitar el uso o divulgación, conforme a la legislación aplicable.
 
-Para ejercer derechos o formular una solicitud, escriba a **morrisgrill@hotmail.com** e indique su nombre, un medio para recibir respuesta, el derecho que desea ejercer y la información que permita localizar los datos relacionados. Si actúa en representación de otra persona, indique esa relación. El Responsable podrá solicitar la información estrictamente necesaria para verificar la identidad o representación conforme a la legislación aplicable. No envíe por correo fotos, contraseñas, números de tarjeta ni otros datos sensibles innecesarios.
+Para ejercer derechos o formular una solicitud, escriba a **morrisgrill@gmail.com** e indique su nombre, un medio para recibir respuesta, el derecho que desea ejercer y la información que permita localizar los datos relacionados. Si actúa en representación de otra persona, indique esa relación. El Responsable podrá solicitar la información estrictamente necesaria para verificar la identidad o representación conforme a la legislación aplicable. No envíe por correo fotos, contraseñas, números de tarjeta ni otros datos sensibles innecesarios.
 
 Algunos registros solo existen en el dispositivo y el Responsable no puede consultarlos remotamente. Para eliminarlos, el usuario puede retirar marcas dentro de la app, gestionar el elemento en Fotos, cambiar permisos o desinstalar la aplicación. Las solicitudes relativas a compras, identificadores publicitarios o información que Apple o Google administren deberán dirigirse también a esos proveedores mediante sus canales oficiales.
 
