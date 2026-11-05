@@ -7,7 +7,7 @@
 
 El responsable del tratamiento de los datos personales relacionados con Photo Review es **Mauricio Zárate Barrera**, con domicilio en **Grand Masters 48, Fracc. Junto al Río, Temixco, Morelos, México** y correo para asuntos de privacidad **morrisgrill@gmail.com** (en adelante, el “Responsable”).
 
-Photo Review es una aplicación para iPhone de público general; no está diseñada ni se promociona específicamente para niños. Permite explorar categorías y álbumes de la fototeca, revisar fotos y videos, conservarlos o marcarlos para eliminarlos, administrar los elementos pendientes y consultar ofertas de suscripción. Se planea distribuirla en **México, Estados Unidos y Canadá** y ofrecer el aviso en español e inglés. La aplicación se ofrece por **Mauricio Zárate Barrera**.
+Photo Review es una aplicación para iPhone de público general; no está diseñada ni se promociona específicamente para niños. Permite explorar categorías y álbumes de la fototeca, revisar fotos y videos, conservarlos o marcarlos para eliminarlos, administrar los elementos pendientes y consultar ofertas de suscripción. Se planea distribuirla en **México, Estados Unidos y Canadá** y ofrecer el aviso en español, inglés de Estados Unidos y francés de Canadá. La aplicación se ofrece por **Mauricio Zárate Barrera**.
 
 Para cualquier pregunta, solicitud o queja sobre este aviso o el tratamiento de datos, puede escribir a **morrisgrill@gmail.com**, canal de contacto del Responsable.
 

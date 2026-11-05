@@ -1,4 +1,9 @@
-# Acuerdo de licencia de usuario final (EULA) de Photo Review
+---
+layout: page
+title: Acuerdo de licencia de usuario final (EULA) de Photo Review
+permalink: /photo-review/EULA.html
+lang: es-MX
+---
 
 **Desarrollador/editor:** Mauricio Zárate Barrera
 
