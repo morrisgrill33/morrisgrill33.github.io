@@ -7,21 +7,13 @@ lang: en-US
 
 **Effective date:** October 8, 2026
 
-## 1. Data controller and contact
-
-The controller of personal data related to Photo Review is **Mauricio Zárate Barrera**, whose address is **Grand Masters 48, Fracc. Junto al Río, Temixco, Morelos, Mexico**, and whose email for privacy matters is **morrisgrill@gmail.com** (the “Controller”).
-
-Photo Review is a general-audience iPhone app; it is not designed or marketed specifically for children. It lets users browse photo library categories and albums, review photos and videos, keep them or mark them for deletion, manage pending items, and view subscription offers. Distribution is planned in **Mexico, the United States, and Canada**, with this notice available in Spanish, US English, and Canadian French. The app is offered by **Mauricio Zárate Barrera**.
-
-For any question, request, or complaint about this notice or data processing, you may email **morrisgrill@gmail.com**, the Controller’s contact channel.
-
-## 2. Scope of this notice
+## 1. Scope of this notice
 
 This notice explains what information Photo Review processes, why it uses it, where it is kept, when providers such as Apple or Google are involved, and what choices users have. It covers use of the iOS app, including Photos permissions, item review, the pending list, integrated advertising, and subscription purchases.
 
 This notice does not replace the privacy notices of Apple, Google, advertisers, or external websites opened from an ad. Each provider is responsible for its own privacy practices.
 
-## 3. Information related to the photo library
+## 2. Information related to the photo library
 
 Photo Review uses PhotoKit, the iOS framework for accessing and modifying the photo library, only after the user grants the permission requested by iOS. Depending on the permission granted, the app can access available photos and videos, smart categories—for example, favorites, recent items, videos, screenshots, selfies, and other groups provided by Photos—and, with full access, user-created albums.
 
@@ -40,7 +32,7 @@ If a photo or video is optimized in iCloud and the system needs to retrieve it f
 
 Photos may contain information the user considers private or sensitive. Photo Review does not intentionally extract or classify faces, location, or other sensitive attributes for advertising or profiling. Users control which items the app can see through iOS Photos permissions.
 
-## 4. Photos permissions and user control
+## 3. Photos permissions and user control
 
 The app requests permission to read and modify the photo library when needed to display items and allow confirmed deletion. iOS may grant full access, limited access to selected items, or deny access. With limited access, Photo Review can use only the items iOS allows it to see; some categories or albums may be unavailable.
 
@@ -48,7 +40,7 @@ Users can change or revoke permission in **iOS Settings > Privacy & Security > P
 
 Marking an item using the deletion gesture or button **does not delete it immediately**. The app keeps its identifier in the local pending list, where the mark can be undone. A change to the photo library is requested only when the user chooses **Delete selected**. iOS may display its own confirmation or authorization. Deleted items are subject to the recovery features and time limits of the Photos app, including **Recently Deleted**, if iOS places them there.
 
-## 5. Information stored on the device
+## 4. Information stored on the device
 
 Photo Review keeps the minimum data needed to maintain the pending list and resume review in the app’s private storage. In particular, SwiftData may store:
 
@@ -63,7 +55,7 @@ The selected language and a usage counter for spacing out ads may also be kept i
 
 The above data is used on the device itself. The operating system may include app data in device backups, according to the user’s backup settings. The Controller does not receive those backups.
 
-## 6. Advertising and Google Mobile Ads
+## 5. Advertising and Google Mobile Ads
 
 The reviewed version integrates the Google Mobile Ads SDK to load native ads within the review flow. The code sets an interval of eight reviewed photos: when applicable and another photo remains to be reviewed, an ad card is inserted. The app does not request those ads when it detects an active subscription. The final frequency or availability may also depend on ad configuration and the provider’s response.
 
@@ -77,7 +69,7 @@ Ads are identified within the interface. Users can skip the card using the avail
 
 See the [Google Privacy Policy](https://policies.google.com/privacy) and the SDK data description in [Google Mobile Ads data disclosure for iOS](https://developers.google.com/admob/ios/privacy/data-disclosure). Advertising information and available ad controls may vary by country, operating system, device settings, and the consent technologies implemented.
 
-## 7. Purchases and subscriptions
+## 6. Purchases and subscriptions
 
 The app offers weekly and annual auto-renewable subscription purchases through StoreKit, Apple’s purchasing system. Before a purchase, Apple displays the price, currency, period, taxes, and applicable terms for the relevant storefront.
 
@@ -85,7 +77,7 @@ Apple processes payment and manages the transaction, renewal, cancellation, and 
 
 Users can manage or cancel a subscription in their Apple/App Store account settings and restore eligible purchases from the app. Available links are **[Manage Apple subscriptions](https://apps.apple.com/account/subscriptions)** and the **[Apple Standard End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)**. Availability, pricing, renewal, and refunds are subject to Apple’s and the storefront’s terms.
 
-## 8. Purposes and user decisions
+## 7. Purposes and user decisions
 
 Information is used for the following purposes:
 
@@ -98,7 +90,7 @@ Information is used for the following purposes:
 
 Photos access occurs only after users grant the corresponding permission in iOS. When Google UMP determines that an advertising privacy decision is required, the app requests that decision before starting Google Mobile Ads. Purchases are processed when users confirm the transaction through Apple. The app does not request a date of birth or create a user account.
 
-## 9. Transfers and providers
+## 8. Transfers and providers
 
 Photo Review does not maintain its own backend or send the Controller a copy of the photo library. To operate certain features, direct communication may occur with:
 
@@ -110,7 +102,7 @@ These providers may process information in countries other than the user’s cou
 
 Local Photos identifiers are not sold, and Photo Review does not provide photos or videos to advertisers. The reviewed code does not include integration with a proprietary analytics platform, CRM, account registration, or third-party advertising other than Google Mobile Ads.
 
-## 10. Data retention and deletion
+## 9. Data retention and deletion
 
 Pending-item identifiers remain in local storage until users unmark them or until Photos confirms deletion and the app removes the entry. If the operation fails, the app may retain the pending item and error to allow a retry.
 
@@ -118,13 +110,13 @@ The review checkpoint is kept locally to allow users to continue a category and 
 
 Uninstalling Photo Review normally deletes its local app data, without affecting device backups or data Apple, Google, or other providers must retain under their own policies. Uninstalling the app does not cancel an Apple subscription; users must cancel it in their account.
 
-## 11. Security
+## 10. Security
 
 The app uses private iOS storage and limits local information to identifiers and review state needed for its features. Access to the photo library is controlled by operating system permissions. The Controller does not operate a central photo database or a user account for this version.
 
 No measure can guarantee absolute security. Users should protect access to their device, keep iOS up to date, review Photos permissions, and avoid sharing the device with unauthorized people. Apple and Google apply their own measures to the services they manage.
 
-## 12. User rights and choices
+## 11. User rights and choices
 
 Users can:
 
@@ -135,20 +127,28 @@ Users can:
 - Manage, cancel, or restore purchases through Apple.
 - Request information about personal data processing for which the Controller is responsible, exercise rights of access, rectification, cancellation, or objection (ARCO), withdraw consent where applicable, or limit use or disclosure under applicable law.
 
-To exercise rights or make a request, email **morrisgrill@gmail.com** and provide your name, a way to receive a response, the right you wish to exercise, and information that allows the related data to be located. If acting on behalf of another person, indicate that relationship. The Controller may request only the information strictly necessary to verify identity or representation under applicable law. Do not email photos, passwords, card numbers, or other unnecessary sensitive data.
+To exercise rights or make a request, email the contact address in the final section of this notice and provide your name, a way to receive a response, the right you wish to exercise, and information that allows the related data to be located. If acting on behalf of another person, indicate that relationship. The Controller may request only the information strictly necessary to verify identity or representation under applicable law. Do not email photos, passwords, card numbers, or other unnecessary sensitive data.
 
 Some records exist only on the device, and the Controller cannot access them remotely. To delete them, users can remove marks in the app, manage the item in Photos, change permissions, or uninstall the app. Requests concerning purchases, advertising identifiers, or information managed by Apple or Google should also be directed to those providers through their official channels.
 
-## 13. Children
+## 12. Children
 
 Photo Review is intended for a general audience and is not designed or marketed specifically for children. The app does not create accounts or ask users their age. The photo library may contain images of children; these are displayed locally only within the granted permission and are not sent to Photo Review servers or to ad requests created by the app. Ad requests limit content to Google’s general-audience rating, and UMP presents privacy choices appropriate to the region. The app does not send the user’s age or configure requests as specifically child-directed. Use by children and associated data processing are subject to applicable laws and to the age settings and parental controls of the device and Apple account.
 
 If the Controller becomes aware of having received a child’s personal information in a manner incompatible with applicable law, the Controller will take appropriate measures, which may include deletion where possible.
 
-## 14. Changes to this notice
+## 13. Changes to this notice
 
 The Controller may update this notice when the app, providers, purposes, or legal obligations change. The current version will indicate its update date and will be available at [https://morrisgrill33.github.io/photo-review/aviso-de-privacidad-en-US.html](https://morrisgrill33.github.io/photo-review/aviso-de-privacidad-en-US.html). If a change requires new consent, it will be requested through the app or another means permitted by applicable law before the corresponding processing takes place.
 
-## 15. Data protection authority
+## 14. Data protection authority
 
 If users believe their request was not handled appropriately, they may contact the competent personal data protection authority in their jurisdiction. In Mexico, they may consult the **Secretaría Anticorrupción y Buen Gobierno** (Ministry of Anti-Corruption and Good Governance) and the rights protection procedure provided in the [Ley Federal de Protección de Datos Personales en Posesión de los Particulares](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf) (Federal Law on the Protection of Personal Data Held by Private Parties). The Ministry’s official information is available at [gob.mx/BuenGobierno](https://www.gob.mx/buengobierno).
+
+## 15. Data controller and contact
+
+The controller of personal data related to Photo Review is **Mauricio Zárate Barrera**, whose address is **Grand Masters 48, Fracc. Junto al Río, Temixco, Morelos, Mexico**, and whose email for privacy matters is **morrisgrill@gmail.com** (the “Controller”).
+
+Photo Review is a general-audience iPhone app; it is not designed or marketed specifically for children. It lets users browse photo library categories and albums, review photos and videos, keep them or mark them for deletion, manage pending items, and view subscription offers. Distribution is planned in **Mexico, the United States, and Canada**, with this notice available in Spanish, US English, and Canadian French. The app is offered by **Mauricio Zárate Barrera**.
+
+For any question, request, or complaint about this notice or data processing, you may email **morrisgrill@gmail.com**, the Controller’s contact channel.
